@@ -9,6 +9,7 @@ gem "rails_12factor"
 
 end
 gem 'mysql'
+gem 'shopify_api'
 # Helpful gems
 gem "better_errors" # improves error handling
 gem "binding_of_caller" # used by better errors
