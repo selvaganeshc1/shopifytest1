@@ -6,7 +6,9 @@ gem 'rails', '4.0.3'
 group :production do
 gem "rails_12factor"
 
+
 end
+gem 'mysql'
 # Helpful gems
 gem "better_errors" # improves error handling
 gem "binding_of_caller" # used by better errors
